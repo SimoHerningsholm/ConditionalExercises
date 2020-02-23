@@ -1,0 +1,6 @@
+C:\Users\Simon\source\repos\CSharp Exercises Conditionals SimonHC\CSharp Exercises Conditionals SimonHC\bin\Debug\CSharp Exercises Conditionals SimonHC.exe.config
+C:\Users\Simon\source\repos\CSharp Exercises Conditionals SimonHC\CSharp Exercises Conditionals SimonHC\bin\Debug\CSharp Exercises Conditionals SimonHC.exe
+C:\Users\Simon\source\repos\CSharp Exercises Conditionals SimonHC\CSharp Exercises Conditionals SimonHC\bin\Debug\CSharp Exercises Conditionals SimonHC.pdb
+C:\Users\Simon\source\repos\CSharp Exercises Conditionals SimonHC\CSharp Exercises Conditionals SimonHC\obj\Debug\CSharp Exercises Conditionals SimonHC.csprojAssemblyReference.cache
+C:\Users\Simon\source\repos\CSharp Exercises Conditionals SimonHC\CSharp Exercises Conditionals SimonHC\obj\Debug\CSharp Exercises Conditionals SimonHC.exe
+C:\Users\Simon\source\repos\CSharp Exercises Conditionals SimonHC\CSharp Exercises Conditionals SimonHC\obj\Debug\CSharp Exercises Conditionals SimonHC.pdb
